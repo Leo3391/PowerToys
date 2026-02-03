@@ -26,6 +26,7 @@ namespace Community.PowerToys.Run.Plugin.UnitConverter
             Speed.Info,
             Temperature.Info,
             Volume.Info,
+	    Force.Info,
         };
 
         /// <summary>
